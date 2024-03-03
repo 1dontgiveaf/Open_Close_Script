@@ -54,7 +54,8 @@ end
 Dragify(button)
 
 button.MouseButton1Click:Connect(function()
-    pressKey(Enum.KeyCode.RightShift)
+    game:GetService("UserInputService"):SendKeyEvent(true, Enum.KeyCode.K, false, nil)
+    game:GetService("UserInputService"):SendKeyEvent(false, Enum.KeyCode.K, false, nil)
 end)
 
 button.Parent = gui

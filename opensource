@@ -105,8 +105,7 @@ local hoe = BadWord:CreateButton({
 
 
 local hardcoresex = BadWord:CreateButton({
-   Name = "hardcore s
-
+   Name = "hardcore sex",
    Callback = function()
    	sendMessage("h⁥⁥⁥⁥а⁥⁥⁥⁥r⁥⁥⁥⁥d⁥⁥⁥⁥с⁥⁥⁥⁥о⁥⁥⁥⁥r⁥⁥⁥⁥е⁥⁥⁥⁥ ѕ⁥⁥⁥⁥е⁥⁥⁥⁥х")
    end,

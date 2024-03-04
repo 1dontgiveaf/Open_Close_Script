@@ -1,6 +1,6 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-   Name = "Rayfield Example Window",
+   Name = "idontgiveaf's bypass",
    LoadingTitle = "idontgiveaf’s bypass",
    LoadingSubtitle = "by .idontgiveaf",
    ConfigurationSaving = {
